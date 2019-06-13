@@ -18,23 +18,8 @@ High quality residential HTTP(S) rotating proxies with a 10m+ unique IPs all ove
 
 ## List of contents
 
-- [Getting started](#getting-started)
- 
-## Getting started
-<br>[<img src="https://smartproxy.com/wp-content/uploads/2019/04/How-to-buy-Smartproxy-plans-now.svg">](https://dashboard.smartproxy.com/register)
-<br> 1. [Register your smartproxy account](https://dashboard.smartproxy.com/register)
-<br> 2. [Pick a plan](https://smartproxy.com/pricing)
-<br> 3. ???
-<br> 4. 10m+ residential IPs in your pocket
-<br><br>Accepted payment methods:
-<br>[<img src="https://smartproxy.com/wp-content/uploads/2018/09/payment-methods-smartproxy-residential-rotating-proxies.svg" alt="" width="250" height="50">](https://smartproxy.com/pricing)
+- [License](#license)
 
 ## License
 
 All code is released under [MIT License](https://github.com/Smartproxy/Smartproxy/blob/master/LICENSE)
-
-## Contacts
-Email - sales@smartproxy.com
-<br><a href="https://smartproxy.com">Live chat 24/7</a>
-<br><a href="https://join.skype.com/invite/bZDHw4NZg2G9">Skype</a>
-<br><a href="https://t.me/smartproxy_com">Telegram</a>
