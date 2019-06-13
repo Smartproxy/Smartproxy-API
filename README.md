@@ -8,8 +8,6 @@
   </a>
 </p>
 
-[<img src="https://i.imgur.com/dMCdcoI.jpg">](https://dashboard.smartproxy.com/register?coupon=GITHUB19)
-
 ## List of contents
 
 - [License](#license)
