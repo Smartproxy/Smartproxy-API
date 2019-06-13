@@ -3,6 +3,11 @@
   </a>
 </p>
 
+<p align="center">
+    <a href="https://dashboard.smartproxy.com/register?coupon=GITHUB19"><img src="https://i.imgur.com/dMCdcoI.jpg" alt="Smartproxy promo" width="550" height="150"></a>
+  </a>
+</p>
+
 [<img src="https://i.imgur.com/dMCdcoI.jpg">](https://dashboard.smartproxy.com/register?coupon=GITHUB19)
 
 ## List of contents
