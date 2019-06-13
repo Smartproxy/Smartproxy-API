@@ -12,6 +12,19 @@
 
 - [Introduction](#introduction)
 - [Authentication](#authentication)
+- [Get sub users](#get-sub-users)
+- [Create subuser](#create-subuser)
+- [Update subuser](#update-subuser)
+- [Get sub user traffic](#get-sub-user-traffic)
+- [Delete subuser](#delete-subuser)
+- [Get whitelisted IPs](#get-whitelisted-ips)
+- [Delete subuser](#delete-subuser)
+- [Get whitelisted IPs](#get-whitelisted-ips)
+- [Add whitelisted IPs](#add-whitelisted-ips)
+- [Delete whitelisted IP](#delete-whitelisted-ip)
+- [Get subscriptions](#get-subscriptions)
+- [Get endpoints](#get-endpoints)
+- [Get endpoints by type](#get-endpoints-by-type)
 - [License](#license)
 
 ## Introduction
