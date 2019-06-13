@@ -11,7 +11,7 @@ import java.util.stream.Collectors;
 public class create_subuser {
 
 	public static void main(String[] args) throws IOException {
-		// Details retreived from Authentication part.
+		// Details retrieved from Authentication part.
 		String userId = "";
 		String token = "";
 		
