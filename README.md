@@ -1,7 +1,9 @@
 <p align="center">
-    <a href="https://smartproxy.com/"><img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="Smartproxy logo" width="150" height="30"></a>
+    <a href="https://smartproxy.com/"><img src="https://smartproxy.com/wp-content/themes/smartproxy/images/smartproxy-logo.svg" alt="Smartproxy logo" width="200" height="50"></a>
   </a>
 </p>
+
+[<img src="https://i.imgur.com/dMCdcoI.jpg">](https://dashboard.smartproxy.com/register?coupon=GITHUB19)
 
 ## List of contents
 
