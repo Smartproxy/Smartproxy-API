@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 public class get_subusers {
 
 	public static void main(String[] args) throws IOException {
-		// Details retreived from Authentication part.
+		// Details retrieved from Authentication part.
 		String userId = "";
 		String token = "";
 		
