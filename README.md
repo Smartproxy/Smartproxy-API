@@ -63,8 +63,9 @@ Take a note of or implement functionality to pass `user_id` and `token` paramete
 
 | Programming Language | Example location         | Download |
 | -------------------- | ------------------------ | -------- |
-| PHP                  | [java/authentication.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/authentication.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/authentication.java > authentication.java ``` |
-| Java                 | [php/authentication.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/authentication.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/authentication.php > php/authentication.php ``` |
+| Java                  | [java/authentication.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/authentication.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/authentication.java > authentication.java ``` |
+| PHP                 | [php/authentication.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/authentication.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/authentication.php > authentication.php ``` |
+| C#                 | [csharp/authentication.cs](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/authentication.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/authentication.cs > authentication.cs ``` |
 
 ## Get sub users
 
@@ -93,8 +94,9 @@ API Link: https://api.smartproxy.com/v1/users/{userId}/sub-users
 
 | Programming Language | Example location         | Download |
 | -------------------- | ------------------------ | -------- |
-| PHP                  | [java/get_subusers.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_subusers.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/get_subusers.java > get_subusers.java ``` |
-| Java                 | [php/get_subusers.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_subusers.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_subusers.php > get_subusers.php ``` |
+| Java                  | [java/get_subusers.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_subusers.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/get_subusers.java > get_subusers.java ``` |
+| PHP                 | [php/get_subusers.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_subusers.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_subusers.php > get_subusers.php ``` |
+| C#                 | [csharp/get_subusers.cs](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/get_subusers.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/get_subusers.cs > get_subusers.cs ``` |
 
 ## Create subuser
 
@@ -118,8 +120,9 @@ API Link: https://api.smartproxy.com/v1/users/{userId}/sub-users
 
 | Programming Language | Example location         | Download |
 | -------------------- | ------------------------ | -------- |
-| PHP                  | [java/create_subuser.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/create_subuser.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/create_subuser.java > create_subuser.java ``` |
-| Java                 | [php/create_subuser.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/create_subuser.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/create_subuser.php > create_subuser.php ``` |
+| Java                  | [java/create_subuser.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/create_subuser.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/create_subuser.java > create_subuser.java ``` |
+| PHP                 | [php/create_subuser.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/create_subuser.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/create_subuser.php > create_subuser.php ``` |
+| C#                 | [csharp/create_subuser.cs](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/create_subuser.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/create_subuser.cs > create_subuser.cs ``` |
 
 ## Update subuser
 
@@ -143,8 +146,9 @@ API Link: https://api.smartproxy.com/v1/users/{userId}/sub-users
 
 | Programming Language | Example location         | Download |
 | -------------------- | ------------------------ | -------- |
-| PHP                  | [java/update_subuser.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/update_subuser.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/update_subuser.java > update_subuser.java ``` |
-| Java                 | [php/update_subuser.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/update_subuser.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/update_subuser.php > update_subuser.php ``` |
+| Java                  | [java/update_subuser.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/update_subuser.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/update_subuser.java > update_subuser.java ``` |
+| PHP                 | [php/update_subuser.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/update_subuser.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/update_subuser.php > update_subuser.php ``` |
+| C#                 | [csharp/update_subuser.cs](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/update_subuser.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/update_subuser.cs > update_subuser.cs ``` |
 
 ## Get sub user traffic
 
@@ -166,8 +170,9 @@ API Link: https://api.smartproxy.com/v1/users/{userId}/sub-users/{username}/traf
 
 | Programming Language | Example location         | Download |
 | -------------------- | ------------------------ | -------- |
-| PHP                  | [java/get_subuser_traffic.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_subuser_traffic.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/get_subuser_traffic.java > get_subuser_traffic.java ``` |
-| Java                 | [php/get_subuser_traffic.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_subuser_traffic.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_subuser_traffic.php > get_subuser_traffic.php ``` |
+| Java                  | [java/get_subuser_traffic.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_subuser_traffic.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/get_subuser_traffic.java > get_subuser_traffic.java ``` |
+| PHP                 | [php/get_subuser_traffic.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_subuser_traffic.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_subuser_traffic.php > get_subuser_traffic.php ``` |
+| C#                 | [csharp/get_subuser_traffic.cs](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/get_subuser_traffic.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/get_subuser_traffic.cs > get_subuser_traffic.cs ``` |
 
 ## Delete subuser
 
@@ -187,8 +192,9 @@ API Link: https://api.smartproxy.com/v1/users/{userId}/sub-users/{sub_user_id}
 
 | Programming Language | Example location         | Download |
 | -------------------- | ------------------------ | -------- |
-| PHP                  | [java/delete_subuser.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/delete_subuser.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/delete_subuser.java > delete_subuser.java ``` |
-| Java                 | [php/delete_subuser.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/delete_subuser.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/delete_subuser.php > delete_subuser.php ``` |
+| Java                  | [java/delete_subuser.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/delete_subuser.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/delete_subuser.java > delete_subuser.java ``` |
+| PHP                 | [php/delete_subuser.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/delete_subuser.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/delete_subuser.php > delete_subuser.php ``` |
+| C#                 | [csharp/delete_subuser.cs](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/delete_subuser.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/delete_subuser.cs > delete_subuser.cs ``` |
 
 ## Get whitelisted IPs
 
@@ -215,8 +221,9 @@ API Link: https://api.smartproxy.com/v1/users/{userId}/whitelisted-ips
 
 | Programming Language | Example location         | Download |
 | -------------------- | ------------------------ | -------- |
-| PHP                  | [java/get_whitelisted_ips.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_whitelisted_ips.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/get_whitelisted_ips.java > get_whitelisted_ips.java ``` |
-| Java                 | [php/get_whitelisted_ips.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_whitelisted_ips.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_whitelisted_ips.php > get_whitelisted_ips.php ``` |
+| Java                  | [java/get_whitelisted_ips.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_whitelisted_ips.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/get_whitelisted_ips.java > get_whitelisted_ips.java ``` |
+| PHP                 | [php/get_whitelisted_ips.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_whitelisted_ips.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_whitelisted_ips.php > get_whitelisted_ips.php ``` |
+| C#                 | [csharp/get_whitelisted_ips.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/get_whitelisted_ips.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/get_whitelisted_ips.cs > get_whitelisted_ips.cs ``` |
 
 ## Add whitelisted IPs
 
@@ -240,8 +247,9 @@ API Link: https://api.smartproxy.com/v1/users/{userId}/whitelisted-ips
 
 | Programming Language | Example location         | Download |
 | -------------------- | ------------------------ | -------- |
-| PHP                  | [java/add_whitelisted_ips.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/add_whitelisted_ips.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/add_whitelisted_ips.java > add_whitelisted_ips.java ``` |
-| Java                 | [php/add_whitelisted_ips.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/add_whitelisted_ips.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/add_whitelisted_ips.php > add_whitelisted_ips.php ``` |
+| Java                  | [java/add_whitelisted_ips.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/add_whitelisted_ips.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/add_whitelisted_ips.java > add_whitelisted_ips.java ``` |
+| PHP                 | [php/add_whitelisted_ips.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/add_whitelisted_ips.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/add_whitelisted_ips.php > add_whitelisted_ips.php ``` |
+| C#                 | [csharp/add_whitelisted_ips.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/add_whitelisted_ips.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/add_whitelisted_ips.cs > add_whitelisted_ips.cs ``` |
 
 ## Delete whitelisted IP
 
@@ -261,8 +269,9 @@ API Link: https://api.smartproxy.com/v1/users/{userId}/whitelisted-ips/{id}
 
 | Programming Language | Example location         | Download |
 | -------------------- | ------------------------ | -------- |
-| PHP                  | [java/delete_whitelisted_ip.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/delete_whitelisted_ip.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/delete_whitelisted_ip.java > delete_whitelisted_ip.java ``` |
-| Java                 | [php/delete_whitelisted_ip.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/delete_whitelisted_ip.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/delete_whitelisted_ip.php > delete_whitelisted_ip.php ``` |
+| Java                  | [java/delete_whitelisted_ip.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/delete_whitelisted_ip.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/delete_whitelisted_ip.java > delete_whitelisted_ip.java ``` |
+| PHP                 | [php/delete_whitelisted_ip.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/delete_whitelisted_ip.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/delete_whitelisted_ip.php > delete_whitelisted_ip.php ``` |
+| C#                 | [csharp/delete_whitelisted_ip.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/delete_whitelisted_ip.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/delete_whitelisted_ip.cs > delete_whitelisted_ip.cs ``` |
 
 ## Get subscriptions
 
@@ -290,8 +299,9 @@ API Link: https://api.smartproxy.com/v1/users/{userId}/subscriptions
 
 | Programming Language | Example location         | Download |
 | -------------------- | ------------------------ | -------- |
-| PHP                  | [java/get_subscriptions.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_subscriptions.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/get_subscriptions.java > get_subscriptions.java ``` |
-| Java                 | [php/get_subscriptions.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_subscriptions.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_subscriptions.php > get_subscriptions.php ``` |
+| Java                  | [java/get_subscriptions.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_subscriptions.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/get_subscriptions.java > get_subscriptions.java ``` |
+| PHP                 | [php/get_subscriptions.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_subscriptions.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_subscriptions.php > get_subscriptions.php ``` |
+| C#                 | [csharp/get_subscriptions.cs](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/get_subscriptions.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/get_subscriptions.cs > get_subscriptions.cs ``` |
 
 ## Get endpoints
 
@@ -322,8 +332,9 @@ API Link: https://api.smartproxy.com/v1/endpoints
 
 | Programming Language | Example location         | Download |
 | -------------------- | ------------------------ | -------- |
-| PHP                  | [java/get_endpoints.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_endpoints.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/get_endpoints.java > get_endpoints.java ``` |
-| Java                 | [php/get_endpoints.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_endpoints.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_endpoints.php > get_endpoints.php ``` |
+| Java                  | [java/get_endpoints.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_endpoints.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/get_endpoints.java > get_endpoints.java ``` |
+| PHP                 | [php/get_endpoints.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_endpoints.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_endpoints.php > get_endpoints.php ``` |
+| C#                 | [csharp/get_endpoints.cs](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/get_endpoints.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/get_endpoints.cs > get_endpoints.cs ``` |
 
 ## Get endpoints by type
 
@@ -354,8 +365,9 @@ API Link: https://api.smartproxy.com/v1/endpoints/{type}
 
 | Programming Language | Example location         | Download |
 | -------------------- | ------------------------ | -------- |
-| PHP                  | [java/get_endpoints_by_type.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_endpoints_by_type.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/java/get_endpoints_by_type.java > get_endpoints_by_type.java ``` |
-| Java                 | [php/get_endpoints_by_type.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_endpoints_by_type.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_endpoints_by_type.php > get_endpoints_by_type.php ``` |
+| Java                  | [java/get_endpoints_by_type.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_endpoints_by_type.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/java/get_endpoints_by_type.java > get_endpoints_by_type.java ``` |
+| PHP                 | [php/get_endpoints_by_type.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_endpoints_by_type.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_endpoints_by_type.php > get_endpoints_by_type.php ``` |
+| C#                 | [csharp/get_endpoints_by_type.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/get_endpoints_by_type.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/get_endpoints_by_type.cs > get_endpoints_by_type.cs ``` |
 
 ## License
 
