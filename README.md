@@ -271,7 +271,7 @@ API Link: https://api.smartproxy.com/v1/users/{userId}/whitelisted-ips/{id}
 | -------------------- | ------------------------ | -------- |
 | Java                  | [java/delete_whitelisted_ip.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/delete_whitelisted_ip.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/delete_whitelisted_ip.java > delete_whitelisted_ip.java ``` |
 | PHP                 | [php/delete_whitelisted_ip.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/delete_whitelisted_ip.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/delete_whitelisted_ip.php > delete_whitelisted_ip.php ``` |
-| C#                 | [csharp/delete_whitelisted_ip.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/delete_whitelisted_ip.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/delete_whitelisted_ip.cs > delete_whitelisted_ip.cs ``` |
+| C#                 | [csharp/delete_whitelisted_ip.cs](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/delete_whitelisted_ip.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/delete_whitelisted_ip.cs > delete_whitelisted_ip.cs ``` |
 
 ## Get subscriptions
 
