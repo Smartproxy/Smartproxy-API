@@ -367,7 +367,7 @@ API Link: https://api.smartproxy.com/v1/endpoints/{type}
 | -------------------- | ------------------------ | -------- |
 | Java                  | [java/get_endpoints_by_type.java](https://github.com/Smartproxy/Smartproxy-API/blob/master/java/get_endpoints_by_type.java) |``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/java/java/get_endpoints_by_type.java > get_endpoints_by_type.java ``` |
 | PHP                 | [php/get_endpoints_by_type.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/php/get_endpoints_by_type.php)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/php/get_endpoints_by_type.php > get_endpoints_by_type.php ``` |
-| C#                 | [csharp/get_endpoints_by_type.php](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/get_endpoints_by_type.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/get_endpoints_by_type.cs > get_endpoints_by_type.cs ``` |
+| C#                 | [csharp/get_endpoints_by_type.cs](https://github.com/Smartproxy/Smartproxy-API/blob/master/csharp/get_endpoints_by_type.cs)   | ``` curl https://raw.githubusercontent.com/Smartproxy/Smartproxy-API/master/csharp/get_endpoints_by_type.cs > get_endpoints_by_type.cs ``` |
 
 ## License
 
