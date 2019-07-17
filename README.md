@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+    <a href="https://github.com/Smartproxy/Smartproxy"> :house: Main Repository :house: </a>
+</p>
+
+<p align="center">
     <a href="https://dashboard.smartproxy.com/register?coupon=GITHUB19"><img src="https://i.imgur.com/dMCdcoI.jpg" alt="Smartproxy promo" width="550" height="150"></a>
   </a>
 </p>
@@ -372,3 +376,10 @@ API Link: https://api.smartproxy.com/v1/endpoints/{type}
 ## License
 
 All code is released under [MIT License](https://github.com/Smartproxy/Smartproxy/blob/master/LICENSE)
+
+## Need help?
+
+Email - sales@smartproxy.com
+<br><a href="https://smartproxy.com">Live chat 24/7</a>
+<br><a href="https://join.skype.com/invite/bZDHw4NZg2G9">Skype</a>
+<br><a href="https://t.me/smartproxy_com">Telegram</a>
